@@ -8,26 +8,18 @@ As AI assistants become standard tools across industries in Canada, this project
 
 Features:
 
-- Speech-to-Text Conversion: Uses Google Speech API to accurately transcribe economic insights from Toronto Dominion Economics audio files.
-  
-- Natural Language Processing (NLP): Extracts key economic indicators and generates structured responses.
-- 
+- Speech-to-Text Conversion: Uses Google Speech API to accurately transcribe economic insights from Toronto Dominion Economics audio files.  
+- Natural Language Processing (NLP): Extracts key economic indicators and generates structured responses.- 
 - Template-Based Answers: Provides consistent, accurate responses to financial inquiries using predefined templates.
-- 
-- Secure Data Handling: Ensures compliance with data security regulations for financial and economic information.
-  
+- Secure Data Handling: Ensures compliance with data security regulations for financial and economic information.  
 - Industry Integration: Designed for potential adoption in banking, finance, and economic research sectors.
 -
 -  Usage Instructions:
-  
-- Upload an Audio File: Users can input recorded economic analysis from Toronto Dominion Economics.
--   
+-  
+- Upload an Audio File: Users can input recorded economic analysis from Toronto Dominion Economics. 
 - Speech Recognition & Transcription: The chatbot processes the audio using Google Speech-to-Text.
-- 
-- Data Analysis & NLP Processing: Economic data is extracted and formatted into structured responses.
-- 
-- Response Generation: The chatbot replies with insightful answers based on economic trends and financial projections.
-- 
+- Data Analysis & NLP Processing: Economic data is extracted and formatted into structured responses. 
+- Response Generation: The chatbot replies with insightful answers based on economic trends and financial projections. 
 - User Query Interaction: Users can ask follow-up questions to refine their understanding of the economic outlook.
 
 
