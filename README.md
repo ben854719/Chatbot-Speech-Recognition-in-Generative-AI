@@ -17,13 +17,13 @@ Features:
 - Secure Data Handling: Ensures compliance with data security regulations for financial and economic information.
   
 - Industry Integration: Designed for potential adoption in banking, finance, and economic research sectors.
-
-- Usage Instructions:
+-
+-  Usage Instructions:
   
 - Upload an Audio File: Users can input recorded economic analysis from Toronto Dominion Economics.
-  
+-   
 - Speech Recognition & Transcription: The chatbot processes the audio using Google Speech-to-Text.
-  
+- 
 - Data Analysis & NLP Processing: Economic data is extracted and formatted into structured responses.
 - 
 - Response Generation: The chatbot replies with insightful answers based on economic trends and financial projections.
