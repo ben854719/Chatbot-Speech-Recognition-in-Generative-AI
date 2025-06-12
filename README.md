@@ -15,7 +15,7 @@ As AI assistants become standard tools across industries in Canada, this project
 - Industry Integration: Designed for potential adoption in banking, finance, and economic research sectors.
 -
   ## Usage Instructions:
--  
+  
 - Upload an Audio File: Users can input recorded economic analysis from Toronto Dominion Economics. 
 - Speech Recognition & Transcription: The chatbot processes the audio using Google Speech-to-Text.
 - Data Analysis & NLP Processing: Economic data is extracted and formatted into structured responses. 
